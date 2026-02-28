@@ -36,7 +36,7 @@ def main():
     result = agent.invoke(
         {
             "messages": HumanMessage(
-                content="search for 3 job postings for an ai engineer using langchain in the bay area on linkedin and list their details?"
+                content="search for lowest price of  natura sugar free from between bigbasket and amazon as listed in india -- share the link to the product and the price as well as the prices"
             )
         }
     )
